@@ -1,6 +1,6 @@
 # SQL Interview Mastery: 50 LeetCode Questions for Top Tech Companies 🏆
 
-![SQL Interview Mastery](https://i.imgur.com/YourImage.png)
+![SQL Interview Mastery](https://www.google.com/url?sa=i&url=https%3A%2F%2Fleetcode.com%2Fstudy-plan%2Fsql%2F&psig=AOvVaw3WiDvlQbEuVNB4ZZ5iAv_q&ust=1689923250633000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCC3OrcnIADFQAAAAAdAAAAABAE)
 
 ## Overview
 Welcome to the ultimate SQL interview preparation repository for top tech companies like Google, Salesforce, Walmart, Metaverse, and Microsoft. This comprehensive study plan focuses on solving 50 essential SQL questions on LeetCode, providing you with the knowledge and practice needed to confidently tackle your SQL interview within just one month.
