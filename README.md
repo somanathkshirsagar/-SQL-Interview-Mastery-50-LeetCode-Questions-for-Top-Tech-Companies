@@ -10,11 +10,9 @@ To make the most of this repository and earn your SQL LeetCode Badge, follow the
 
 1. **Fork and Clone the Repository:** Start by forking this repository to your GitHub account and then clone it to your local machine using the provided command.
 
-2. **Study Plan:** Open the [study-plan.md](study-plan.md) file to find the detailed study plan for your SQL interview preparation. This plan covers various SQL topics and specifies the LeetCode SQL questions you need to solve.
+3. **LeetCode Badge Challenge:** Your mission is to conquer all 50 essential SQL questions on LeetCode mentioned in the study plan. 
 
-3. **LeetCode Badge Challenge:** Your mission is to conquer all 50 essential SQL questions on LeetCode mentioned in the study plan. Track your progress in the [study-plan.md](study-plan.md) file as you complete each question.
-
-4. **Coding Practice:** The [src/](src/) directory contains SQL solutions to each LeetCode question. Use these solutions as references after attempting the questions on your own.
+4. **Coding Practice:** The directory contains SQL solutions to each LeetCode question. Use these solutions as references after attempting the questions on your own.
 
 5. **Contribute:** If you develop an optimized or alternative solution for any LeetCode question, feel free to contribute to the repository by opening a pull request. Collaboration is the key to improvement!
 
