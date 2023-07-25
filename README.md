@@ -1,4 +1,4 @@
-# SQL Interview Mastery: 50 LeetCode Questions for Top Tech Companies 🏆 
+# SQL Interview Mastery: 50 LeetCode Questions for Top Tech Companies 🏆  
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="880" height="400" alt="Alt Text"> 
 
 ## Overview
