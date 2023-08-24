@@ -2,7 +2,7 @@
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="880" height="400" alt="Alt Text">   
  
 ## Overview 
-Welcome to the ultimate SQL interview preparation repository for top tech companies like Google, Salesforce, Walmart, Metaverse, and Microsoft. This comprehensive study plan focuses on solving 50 essential SQL questions on LeetCode, providing you with the knowledge and practice needed to confidently tackle your SQL interview within just one month.
+Welcome to the ultimate SQL interview preparation repository for top tech companies like Google, Salesforce, Walmart, Metaverse, and Microsoft. This comprehensive study plan focuses on solving 50 essential SQL questions on LeetCode, providing you with the knowledge and practice needed to confidently tackle your SQL interview within just one month. 
 
 ## How to Use This Repository
 To make the most of this repository and earn your SQL LeetCode Badge, follow these steps:
