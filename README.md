@@ -7,7 +7,7 @@ Welcome to the ultimate SQL interview preparation repository for top tech compan
 ## How to Use This Repository
 To make the most of this repository and earn your SQL LeetCode Badge, follow these steps:
 
-1. **Fork and Clone the Repository:** Start by forking this repository to your GitHub account and then clone it to your local machine using the provided command.
+1. **Fork and Clone the Repository:** Start by forking this repository to your GitHub account and then clone it to your local machine using the provided command. 
 
 3. **LeetCode Badge Challenge:** Your mission is to conquer all 50 essential SQL questions on LeetCode mentioned in the study plan. 
 
