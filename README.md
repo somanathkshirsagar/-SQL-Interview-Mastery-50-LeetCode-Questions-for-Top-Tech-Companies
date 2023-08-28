@@ -23,7 +23,7 @@ Before diving into the LeetCode questions, ensure you have the following:
 - A working SQL environment to run and test your code (e.g., MySQL, PostgreSQL, or SQLite).
 
 ## Study Plan Breakdown
-The study plan is designed to be completed within one month, covering SQL topics progressively. Here's an overview of the weekly breakdown:
+The study plan is designed to be completed within one month, covering SQL topics progressively. Here's an overview of the weekly breakdown: 
 
 1. **Week 1:** Introduction to SQL, SELECT queries, filtering, sorting, and basic functions.
 2. **Week 2:** JOIN operations, subqueries, and advanced SELECT queries.
