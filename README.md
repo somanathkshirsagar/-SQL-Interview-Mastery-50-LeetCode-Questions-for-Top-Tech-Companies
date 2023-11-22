@@ -38,7 +38,7 @@ The study plan is designed to be completed within one month, covering SQL topics
 This repository serves as a study guide and doesn't guarantee job offers or interview success. It's designed to help you practice SQL interview questions commonly asked by top tech companies. Real interview questions may vary, so be well-prepared for different scenarios.
 
 ## Acknowledgments
-A special thanks to LeetCode for providing an excellent platform for practicing coding interview questions.
+A special thanks to LeetCode for providing an excellent platform for practicing coding interview questions.  
 
 Let's embark on your journey to crack the SQL interview with LeetCode! Happy coding and good luck!
 
