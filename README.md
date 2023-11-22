@@ -5,7 +5,7 @@
 Welcome to the ultimate SQL interview preparation repository for top tech companies like Google, Salesforce, Walmart, Metaverse, and Microsoft. This comprehensive study plan focuses on solving 50 essential SQL questions on LeetCode, providing you with the knowledge and practice needed to confidently tackle your SQL interview within just one month. 
 
 ## How to Use This Repository
-To make the most of this repository and earn your SQL LeetCode Badge, follow these steps:  
+To make the most of this repository and earn your SQL LeetCode Badge, follow these steps:    
 
 1. **Fork and Clone the Repository:** Start by forking this repository to your GitHub account and then clone it to your local machine using the provided command. 
 
