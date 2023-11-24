@@ -4,7 +4,7 @@ with combo as (
     count(action) as totalaction 
 
     from confirmations
-    group by user_id
+    group by user_id 
 )
 
 select 
