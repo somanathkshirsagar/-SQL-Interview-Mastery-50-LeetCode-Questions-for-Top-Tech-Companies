@@ -5,7 +5,7 @@ with combo as (
 
     from confirmations
     group by user_id 
-)
+) 
 
 select 
     s.user_id,
