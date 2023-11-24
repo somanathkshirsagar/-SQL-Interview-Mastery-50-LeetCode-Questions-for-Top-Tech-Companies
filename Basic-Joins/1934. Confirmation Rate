@@ -14,4 +14,4 @@ select
     from signups s
     left join combo c
     on s.user_id = c.user_id 
-    group by 1 
+    group by 1   
