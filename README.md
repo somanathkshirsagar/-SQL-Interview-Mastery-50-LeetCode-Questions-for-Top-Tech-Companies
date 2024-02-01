@@ -1,13 +1,13 @@
-# SQL Interview Mastery: 50 LeetCode Questions for Top Tech Companies 🏆   
-<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="880" height="400" alt="Alt Text"> 
-
-## Overview
-Welcome to the ultimate SQL interview preparation repository for top tech companies like Google, Salesforce, Walmart, Metaverse, and Microsoft. This comprehensive study plan focuses on solving 50 essential SQL questions on LeetCode, providing you with the knowledge and practice needed to confidently tackle your SQL interview within just one month.
+# SQL Interview Mastery: 50 LeetCode Questions for Top Tech Companies 🏆      
+<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="880" height="400" alt="Alt Text">                   
+  
+## Overview 
+Welcome to the ultimate SQL interview preparation repository for top tech companies like Google, Salesforce, Walmart, Metaverse, and Microsoft. This comprehensive study plan focuses on solving 50 essential SQL questions on LeetCode, providing you with the knowledge and practice needed to confidently tackle your SQL interview within just one month. 
 
 ## How to Use This Repository
-To make the most of this repository and earn your SQL LeetCode Badge, follow these steps:
+To make the most of this repository and earn your SQL LeetCode Badge, follow these steps:    
 
-1. **Fork and Clone the Repository:** Start by forking this repository to your GitHub account and then clone it to your local machine using the provided command.
+1. **Fork and Clone the Repository:** Start by forking this repository to your GitHub account and then clone it to your local machine using the provided command. 
 
 3. **LeetCode Badge Challenge:** Your mission is to conquer all 50 essential SQL questions on LeetCode mentioned in the study plan. 
 
@@ -23,7 +23,7 @@ Before diving into the LeetCode questions, ensure you have the following:
 - A working SQL environment to run and test your code (e.g., MySQL, PostgreSQL, or SQLite).
 
 ## Study Plan Breakdown
-The study plan is designed to be completed within one month, covering SQL topics progressively. Here's an overview of the weekly breakdown:
+The study plan is designed to be completed within one month, covering SQL topics progressively. Here's an overview of the weekly breakdown: 
 
 1. **Week 1:** Introduction to SQL, SELECT queries, filtering, sorting, and basic functions.
 2. **Week 2:** JOIN operations, subqueries, and advanced SELECT queries.
@@ -38,7 +38,7 @@ The study plan is designed to be completed within one month, covering SQL topics
 This repository serves as a study guide and doesn't guarantee job offers or interview success. It's designed to help you practice SQL interview questions commonly asked by top tech companies. Real interview questions may vary, so be well-prepared for different scenarios.
 
 ## Acknowledgments
-A special thanks to LeetCode for providing an excellent platform for practicing coding interview questions.
+A special thanks to LeetCode for providing an excellent platform for practicing coding interview questions.  
 
 Let's embark on your journey to crack the SQL interview with LeetCode! Happy coding and good luck!
 

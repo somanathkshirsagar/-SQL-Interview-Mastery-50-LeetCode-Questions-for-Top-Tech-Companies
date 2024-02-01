@@ -1,11 +1,11 @@
 with combo as (
     select user_id,
-    sum(case when action = "confirmed" then 1 else 0 end) as totalconfirmed,
-    count(action) as totalaction
+    sum(case when action = "confirmed" then 1 else 0 end) as totalconfirmed, 
+    count(action) as totalaction 
 
     from confirmations
-    group by user_id
-)
+    group by user_id 
+) 
 
 select 
     s.user_id,
@@ -13,5 +13,6 @@ select
 
     from signups s
     left join combo c
-    on s.user_id = c.user_id
-    group by 1
+    on s.user_id = c.user_id 
+    group by 1     
+      
